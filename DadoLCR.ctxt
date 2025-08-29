@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DadoLCR
+comment0.text=\r\n\ Dado\ para\ el\ juego\ Left-Center-Right.\r\n\r\n\ @author\ (Cecilia\ Curlango\ Rosas)\r\n\ @version\ (1.0\ agosto\ 2025)\r\n
+comment1.params=
+comment1.target=DadoLCR()
+comment2.params=
+comment2.target=char\ getValor()
+comment3.params=
+comment3.target=char\ lanzar()
+numComments=4
