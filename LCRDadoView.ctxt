@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LCRDadoView
+comment1.params=
+comment1.target=LCRDadoView()
+comment2.params=
+comment2.target=void\ ocultarFiguras()
+comment3.params=dx\ dy
+comment3.target=void\ crearCirculo(int,\ int)
+comment4.params=dx\ dy\ color
+comment4.target=void\ crearCuadrado(int,\ int,\ java.lang.String)
+comment5.params=
+comment5.target=void\ mostrarC()
+comment6.params=
+comment6.target=void\ mostrarL()
+comment7.params=
+comment7.target=void\ mostrarR()
+comment8.params=
+comment8.target=void\ mostrarPunto()
+comment9.params=dx\ dy
+comment9.target=void\ mover(int,\ int)
+numComments=10
