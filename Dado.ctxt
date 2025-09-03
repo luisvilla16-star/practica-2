@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dado\ here.\r\n\r\n\ @author\ (Cecy\ Curlango\ Rosas)\r\n\ @version\ (1.0\ agosto\ 2025)\r\n
+comment1.params=
+comment1.target=Dado()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dado\r\n
+comment2.params=lados
+comment2.target=Dado(int)
+comment3.params=
+comment3.target=int\ getValor()
+comment4.params=nuevoValor
+comment4.target=void\ setValor(int)
+comment5.params=
+comment5.target=int\ getCaras()
+comment6.params=caras
+comment6.target=void\ setCaras(int)
+comment7.params=
+comment7.target=int\ lanzar()
+numComments=8

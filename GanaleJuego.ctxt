@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GanaleJuego
+comment1.params=
+comment1.target=GanaleJuego()
+comment2.params=
+comment2.target=void\ lanzarTirada()
+comment2.text=\r\n\ Lanza\ ambos\ dados\ y\ actualiza\ fichas\ seg\u00FAn\ reglas\ del\ juego.\r\n\ Si\ el\ juego\ ya\ termin\u00F3,\ no\ hace\ nada.\r\n
+comment3.params=
+comment3.target=int\ getFichas()
+comment4.params=
+comment4.target=int\ getTiradas()
+comment5.params=
+comment5.target=boolean\ isJuegoTerminado()
+numComments=6
